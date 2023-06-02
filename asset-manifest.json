@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Image-Bazar/static/css/main.ec3d6034.css",
+    "main.js": "/Image-Bazar/static/js/main.a38ee61f.js",
+    "index.html": "/Image-Bazar/index.html",
+    "main.ec3d6034.css.map": "/Image-Bazar/static/css/main.ec3d6034.css.map",
+    "main.a38ee61f.js.map": "/Image-Bazar/static/js/main.a38ee61f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec3d6034.css",
+    "static/js/main.a38ee61f.js"
+  ]
+}
